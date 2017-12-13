@@ -10,4 +10,8 @@ Die Stadt ist namensgebend für die Linzer Torte, deren Rezept als das älteste be
 ##Geografie
 Linz liegt im östlichen Oberösterreich und erstreckt sich auf beiden Seiten der Donau. Die Nord-Süd-Ausdehnung beträgt 18,6 km, die Ost-West-Ausdehnung 12,3 km.[18] Die Stadt befindet sich im Linzer Becken und grenzt im Westen an den Kürnberger Wald sowie das fruchtbare Eferdinger Becken. Nördlich der Donau, im Stadtteil Urfahr, wird Linz durch den Pöstlingberg (539 m), den Lichtenberg (927 m) und die Hügel bzw. Berge des Mühlviertels begrenzt. Die östliche Stadtgrenze ist durch die Donau markiert, welche das Stadtgebiet in einem nordost-südöstlichen Halbkreis erst durch-, und dann umfließt. Die Traun mündet 7 km südöstlich des Stadtzentrums in die Donau und markiert die innerstädtische Grenze zum größten Stadtteil Ebelsberg. Südlich der Stadt beginnt das Alpenvorland.
 
+## Beispielbild
+
+![picture](https://github.com/Kastner/CE_UE_WS17_A4-2/blob/master/k01612515/23784163-Linz-Auf-der-Altstadt-mit-Kirchen-sterreich-Lizenzfreie-Bilder.jpg "23784163-Linz-Auf-der-Altstadt-mit-Kirchen-sterreich-Lizenzfreie-Bilder.jpg")
+
 Quelle: https://de.wikipedia.org/wiki/Linz
